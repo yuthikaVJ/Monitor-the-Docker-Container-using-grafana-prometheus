@@ -63,6 +63,7 @@ Docker / cAdvisor → 14282
 
 
 ### Screenshots
-![image alt](https://github.com/yuthikaVJ/Monitor-the-Docker-Container-using-grafana-prometheus/blob/83904e28dafe608316640cf18c5f9a53bc2f2a86/images/Grafana%20EC2.png)
+![image alt](images/Grafana EC2.png)
+
 
 
